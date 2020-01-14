@@ -62,27 +62,24 @@ textarea {
 
 .saveBtn i:hover {
 	font-size: 20px;
-    transition: all 0.3s ease-in-out;
-    padding: 100%;
+	transition: all 0.3s ease-in-out;
 }
 
 /* css for the page */
 
 body {
 	background-color: rgb(209, 212, 222);
+
 }
 
-h1 {
-	text-shadow: 0 0 5px #a4d0ff;
-	color: #007bff;
-}
 
 .jumbotron {
-	border-bottom: 18px solid grey;
-
-
+	border-bottom: 18px solid #1988ff;
 }
-.btn:hover {
+
+
+
+btn:hover {
 	size: 200%;
 }
 
